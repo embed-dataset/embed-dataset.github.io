@@ -14,7 +14,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Apartment 1 power files
 
-*   [Link to another page](./another-page.html).
+*   [Part 1] (3.5 GB)(https://s3.amazonaws.com/embed.data/Apt1_1.tar).
 
 ## Apartment 2 power files
 
