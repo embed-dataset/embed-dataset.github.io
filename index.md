@@ -2,19 +2,28 @@
 layout: default
 ---
 
-Hello world.
+Energy Monitoring through Building Electricity Disaggregation (EMBED), is a public dataset for electricity disaggregation. EMBED contains data from three apartment units in Los Angeles, California, collected for at least two weeks (the data collection period varies between two to four weeks).
 
 [Link to another page](./another-page.html).
 
-This is a test
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# DOWNLOAD
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Apartment 1 power files
+
+## Apartment 2 power files
+
+## Apartment 3 power files
+
+## Ground truth plug load consumption
+
+## Labeled event timestamps
+
+## Appliance label description
+
 
 > This is a blockquote following a header.
 >
