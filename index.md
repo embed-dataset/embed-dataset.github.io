@@ -21,7 +21,7 @@ The dataset attributes is provided below.
 
 For more information about the dataset, please refer to:
 
->F. Jazizadeh, M. Afzalan, B. Becerik-Gerber, L. Soibelman, "EMBED: A Dataset for Energy Monitoring through Building Electricity >Disaggregation", in *Proceedings of the Ninth ACM International Conference on Future Energy Systems (ACM e-Energy'18)*, Karlsruhe, >Germany, 2018.
+>F. Jazizadeh, M. Afzalan, B. Becerik-Gerber, L. Soibelman, "EMBED: A Dataset for Energy Monitoring through Building Electricity Disaggregation", in *Proceedings of the Ninth ACM International Conference on Future Energy Systems (ACM e-Energy'18)*, Karlsruhe, Germany, 2018.
 
 # DOWNLOAD
 
