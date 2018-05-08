@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The **EMBED** (Energy Monitoring through Building Electricity Disaggregation) dateset is released to facilitate research and performance benchmarking in the disaggregation domain. EMBED contains data from three apartment units in Los Angeles, California, collected for at least two weeks. Aggregate power files, fully labeled appliance event timestamps, and plug load consumption for a variety of monitored appliances is provided in this page. 
+The **EMBED** (*Energy Monitoring through Building Electricity Disaggregation*) dateset is released to facilitate research and performance benchmarking in the disaggregation domain. EMBED contains data from three apartment units in Los Angeles, California, collected for at least two weeks. Aggregate power files, fully labeled appliance event timestamps, and plug load consumption for a variety of monitored appliances is provided in this page. 
 
 The dataset attributes is provided below.
 
@@ -18,6 +18,10 @@ The dataset attributes is provided below.
 | Apt 1 Duration           | 14 days | 
 | Apt 2 Duration            | 21 days | 
 | Apt 3 Duration            | 27 days | 
+
+For more information about the dataset, please refer to:
+
+F. Jazizadeh, M. Afzalan, B. Becerik-Gerber, L. Soibelman, "EMBED: A Dataset for Energy Monitoring through Building Electricity Disaggregation", in *Proceedings of the Ninth ACM International Conference on Future Energy Systems (ACM e-Energy'18)*, Karlsruhe, Germany, 2018.
 
 # DOWNLOAD
 
