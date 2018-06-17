@@ -20,7 +20,7 @@ The dataset attributes is provided below.
 | Apt 3 Duration            | 27 days | 
 
 
-For more information about the dataset, please refer to:
+For more information about the dataset, please refer to the [paper](https://dl.acm.org/citation.cfm?id=3208939):
 
 >F. Jazizadeh, M. Afzalan, B. Becerik-Gerber, L. Soibelman, "EMBED: A Dataset for Energy Monitoring through Building Electricity Disaggregation", in *Proceedings of the Ninth ACM International Conference on Future Energy Systems (ACM e-Energy'18)*, Karlsruhe, Germany, 2018.
 
