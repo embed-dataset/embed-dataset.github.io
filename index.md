@@ -58,9 +58,9 @@ For more information about the dataset, please refer to the [paper](https://dl.a
 
 ## Ground truth plug load consumption
 
-*   [Apartment 1 (33 MB)](https://s3.amazonaws.com/embed.data/Apt1_GT+Plug.rar)
-*   [Apartment 2 (51 MB)](https://s3.amazonaws.com/embed.data/Apt2_GT+Plug.rar)
-*   [Apartment 3 (27 MB)](https://s3.amazonaws.com/embed.data/Apt3_GT+Plug.rar)
+*   [Apartment 1 (23 MB)](https://s3.amazonaws.com/embed.data/Apt1_GT+Plug.rar)
+*   [Apartment 2 (46 MB)](https://s3.amazonaws.com/embed.data/Apt2_GT+Plug.rar)
+*   [Apartment 3 (23 MB)](https://s3.amazonaws.com/embed.data/Apt3_+GT+Plug.rar)
 
 ## Labeled event timestamps
 
