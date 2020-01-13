@@ -64,7 +64,7 @@ For more information about the dataset, please refer to the [paper](https://dl.a
 
 ## Labeled event timestamps
 
-*   [Event files for all the apartments](https://s3.amazonaws.com/embed.data/Event+Files.rar)
+*   [Event files for all the apartments](https://s3.amazonaws.com/embed.data/Event_Files.zip)
 
 ## Appliance label description
 
